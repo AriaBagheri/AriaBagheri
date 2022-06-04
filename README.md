@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AriaBagheri
-- 👀 I’m interested in App Dev
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Cyber Security
+- 🌱 I'm currently learning cyber security
 - 📫 How to reach me ariab9342@gmail.com
 
 <!---
